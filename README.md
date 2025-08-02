@@ -22,7 +22,7 @@ This project generates multiple creative formats from a single product image, sa
 ---
 
 ### 1️⃣ Workflow Design
-![Workflow](images/workflow.png)
+![Workflow](images/screenshot (763).png)
 
 ### 2️⃣ Input Image
 ![Input](images/input.png)
