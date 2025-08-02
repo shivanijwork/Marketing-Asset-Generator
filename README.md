@@ -21,27 +21,28 @@ This project generates multiple creative formats from a single product image, sa
 
 ---
 
+## 📸 Project Workflow & Output
 ### 1️⃣ Workflow Design
-![Workflow](Screenshot(763).png)
+![Workflow](Screenshot%20(763).png)
 
 ### 2️⃣ Input Image
-![Input](images/input.png)
+![Input Product Image](Pink%20Clutch.jpg)
 
 ### 3️⃣ Generated Outputs
-**Instagram Post**
-![Instagram Post](images/output-instagram-post.png)
+**Instagram Post**  
+![Instagram Post](Instagram%20Post.png)
 
-**Instagram Story**
-![Instagram Story](images/output-instagram-story.png)
+**Instagram Story**  
+![Instagram Story](Instagram%20Story.png)
 
-**Website Banner**
-![Website Banner](images/output-website-banner.png)
+**Website Banner**  
+![Website Banner](Website%20Banner.png)
 
-**Pinterest Pin**
-![Pinterest Pin](images/output-pinterest-pin.png)
+**Pinterest Pin**  
+![Pinterest Pin](Pinterest%20Pin.png)
 
-**Email Header**
-![Email Header](images/output-email-header.png)
+**Email Header**  
+![Email Header](Email%20Header.png)
 
 ---
 
